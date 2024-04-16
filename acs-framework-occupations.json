@@ -2,6 +2,17 @@
 	"frameworkVersion": "0.0.1",
 	"lastModifiedDate": "2024-04-16T15:30:00.000Z",
 	"occupations": [
-
+		{
+			"uuid": "47cb1fbc-3643-45db-8c19-534e3661ad1d",
+			"code": "SFWENG",
+			"fullName": "Software Engineer",
+			"description": "Designs, writes, tests and deploys software, manages code."
+		},
+		{
+			"uuid": "84b12ebf-d834-4208-9c2d-b3bec650ada2",
+			"code": "CLDENG",
+			"fullName": "Cloud Engineer",
+			"description": "Designs and deploys cloud services, manages cloud infrastructure."
+		}
 	]
 }
