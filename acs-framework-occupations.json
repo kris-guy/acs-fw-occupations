@@ -1,7 +1,30 @@
 {
-	"frameworkVersion": "0.0.1",
+	"frameworkVersion": "0.0.2",
 	"lastModifiedDate": "2024-04-16T15:30:00.000Z",
 	"occupations": [
-
+		{
+			"uuid": "84b12ebf-d834-4208-9c2d-b3bec650ada2",
+			"code": "CLDENG",
+			"fullName": "Cloud Engineer",
+			"description": "Designs and deploys cloud services, manages cloud infrastructure.",
+			"categoryId": "00000000-0000-0000-0000-000000000000",
+			"categoryName": "Cloud, Network, Infrastructure & Hardware"
+		},
+		{
+			"uuid": "df85fad6-7d6d-4cfc-b504-816c9f2881b8",
+			"code": "DOPENG",
+			"fullName": "DevOps Engineer",
+			"description": "Designs and deploys devop solutions, manages devops infrastructure.",
+			"categoryId": "00000000-0000-0000-0000-000000000000",
+			"categoryName": "Software Engineering"
+		},
+		{
+			"uuid": "47cb1fbc-3643-45db-8c19-534e3661ad1d",
+			"code": "SFWENG",
+			"fullName": "Software Engineer",
+			"description": "Designs, writes, tests and deploys software, manages code.",
+			"categoryId": "00000000-0000-0000-0000-000000000000",
+			"categoryName": "Software Engineering"
+		}
 	]
 }
